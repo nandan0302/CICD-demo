@@ -30,4 +30,4 @@ jobs:
 
     - name: Print message
 
-      run: echo "CI/CD is working"
+      run: ech "CI/CD is working"
